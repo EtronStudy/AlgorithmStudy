@@ -1,1 +1,1 @@
-1번 : https://www.acmicpc.net/problem/2108
+1번 통계학 : https://www.acmicpc.net/problem/2108
