@@ -1,2 +1,2 @@
-1번 통계학 : https://www.acmicpc.net/problem/2108
-2번 숫자 정사각형 : https://www.acmicpc.net/problem/1051
+- 1번 통계학 : https://www.acmicpc.net/problem/2108
+- 2번 숫자 정사각형 : https://www.acmicpc.net/problem/1051
